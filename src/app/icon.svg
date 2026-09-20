@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="259 48 680 680" role="img" aria-label="Attis International">
+  <defs>
+    <linearGradient id="g-yellow" x1="0.35" y1="0" x2="0.75" y2="1">
+      <stop offset="0" stop-color="#fff200"/>
+      <stop offset="1" stop-color="#f7941d"/>
+    </linearGradient>
+    <linearGradient id="g-cyan" x1="0" y1="0.3" x2="1" y2="0.8">
+      <stop offset="0" stop-color="#0095da"/>
+      <stop offset="1" stop-color="#27bdd3"/>
+    </linearGradient>
+    <linearGradient id="g-red" x1="0" y1="0.5" x2="1" y2="0.5">
+      <stop offset="0" stop-color="#ee1c25"/>
+      <stop offset="1" stop-color="#c1272d"/>
+    </linearGradient>
+  </defs>
+  <path fill="#000" d="M600 65 L555 168 L752 305 C715 245 650 150 600 65Z"/>
+  <path fill="#58595b" d="M430 295C385 355 350 415 352 478L642 618L655 450L470 335Z"/>
+  <path fill="#58595b" d="M757 283C815 350 850 430 846 495C842 560 822 600 790 620L640 618L690 320Z"/>
+  <path fill="url(#g-cyan)" d="M352 478C356 560 435 655 530 700C575 682 615 650 642 618Z"/>
+  <path fill="#000" d="M530 700C590 715 720 705 790 620L642 618C615 650 575 682 530 700Z"/>
+  <path fill="url(#g-red)" d="M555 168L752 305L750 360L600 360L445 355Z"/>
+  <path fill="url(#g-yellow)" d="M445 352C470 335 545 322 588 378L640 420L640 540L562 556C515 498 465 425 445 352Z"/>
+  <ellipse fill="#000" cx="662" cy="452" rx="86" ry="154" transform="rotate(8 662 452)"/>
+</svg>
