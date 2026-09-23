@@ -7,7 +7,7 @@ export const BRAND = "Attis International";
 
 export const PHONE_DISPLAY = "06 22 72 86 82";
 export const PHONE_TEL = "tel:+33622728682";
-export const EMAIL = "contact@attis-international.fr";
+export const EMAIL = "Attisinternational@gmail.com";
 export const EMAIL_MAILTO = `mailto:${EMAIL}`;
 
 /** À passer à false si le 06 22 72 86 82 n'est pas sur WhatsApp : le bouton disparaît partout. */
